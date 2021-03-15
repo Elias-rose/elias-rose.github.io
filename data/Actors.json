@@ -1,5 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"","note":"","profile":"you"},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":5,"equips":[5,0,7,6,5],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Butterball","nickname":"Butter bod","note":"","profile":"the dog with butter on him"}
+{"id":1,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""}
 ]
