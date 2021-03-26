@@ -1,10 +1,15 @@
 [
 null,
-{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Wood Sword","note":"","params":[0,0,5,0,0,0,0,0],"price":500,"wtypeId":2},
-{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Wood Axe","note":"","params":[0,0,5,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Wood Sword","note":"","params":[0,0,5,0,0,0,0,0],"price":50,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Wood Axe","note":"","params":[0,0,5,0,0,0,0,0],"price":50,"wtypeId":4},
 {"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"broken Cane","note":"","params":[0,0,5,0,0,0,0,0],"price":500,"wtypeId":6},
-{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Lose strings Bow","note":"","params":[0,0,5,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Lose strings Bow","note":"","params":[0,0,5,0,0,0,0,0],"price":50,"wtypeId":7},
 {"id":5,"animationId":1,"description":"Its a big stick","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Stick","note":"","params":[0,0,6,3,6,2,-2,0],"price":0,"wtypeId":6},
 {"id":6,"animationId":0,"description":"A glove infused with magical power","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":43,"dataId":12,"value":1},{"code":55,"dataId":0,"value":1}],"iconIndex":106,"name":"Glove of casting","note":"","params":[1,4,4,0,12,8,0,0],"price":20,"wtypeId":11},
-{"id":7,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Wood Dagger","note":"","params":[0,0,5,0,0,0,0,0],"price":10,"wtypeId":1}
+{"id":7,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Wood Dagger","note":"","params":[0,0,5,0,0,0,3,0],"price":25,"wtypeId":1},
+{"id":8,"animationId":6,"description":"It is better then the wood one","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Basic sword","note":"","params":[0,0,10,0,0,0,0,0],"price":100,"wtypeId":2},
+{"id":9,"animationId":11,"description":"this should hold togather when firing","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Basic bow","note":"","params":[0,0,10,0,0,0,0,0],"price":100,"wtypeId":7},
+{"id":10,"animationId":6,"description":"you can chop wood with it","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Basic axe","note":"","params":[0,0,10,0,0,0,0,0],"price":100,"wtypeId":4},
+{"id":11,"animationId":0,"description":"It wont be slapping people with a small thing of wood","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Basic Dagger","note":"","params":[0,0,10,0,0,0,6,0],"price":50,"wtypeId":0},
+{"id":12,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
 ]

@@ -5,7 +5,11 @@ null,
 {"id":3,"expanded":true,"name":"boulderpass","order":3,"parentId":0,"scrollX":981.5999999999999,"scrollY":547.8},
 {"id":4,"expanded":true,"name":"bpdugeon","order":4,"parentId":3,"scrollX":1428,"scrollY":1776.6},
 {"id":5,"expanded":false,"name":"Debug","order":6,"parentId":0,"scrollX":1963.1999999999998,"scrollY":1095.6},
-{"id":6,"expanded":true,"name":"FrostTrail","order":7,"parentId":0,"scrollX":981.5999999999999,"scrollY":547.8},
-{"id":7,"expanded":true,"name":"frosetDungeon","order":8,"parentId":6,"scrollX":1904.3999999999999,"scrollY":1321.8},
-{"id":8,"expanded":false,"name":"MAP008","order":5,"parentId":4,"scrollX":1428,"scrollY":1369.8}
+{"id":6,"expanded":true,"name":"FrostTrail","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":true,"name":"frosetDungeon","order":8,"parentId":6,"scrollX":3828,"scrollY":1915.8},
+{"id":8,"expanded":false,"name":"MAP008","order":5,"parentId":4,"scrollX":1428,"scrollY":1369.8},
+{"id":9,"expanded":true,"name":"Town","order":9,"parentId":7,"scrollX":810,"scrollY":652.5},
+{"id":10,"expanded":true,"name":"Town inner","order":10,"parentId":9,"scrollX":810,"scrollY":1346.5},
+{"id":11,"expanded":true,"name":"MAP011","order":11,"parentId":10,"scrollX":818,"scrollY":456.5},
+{"id":12,"expanded":false,"name":"MAP012","order":12,"parentId":11,"scrollX":1636,"scrollY":913}
 ]
